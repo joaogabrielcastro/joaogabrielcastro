@@ -58,7 +58,7 @@
 
 ## 📬 **Entre em Contato**
 - 📧 E-mail: [joaowotekoski@gmail.com](mailto:joaowotekoski@gmail.com)  
-- 📱 WhatsApp: +55 41 99717-3645  
+
 
 ---
 
