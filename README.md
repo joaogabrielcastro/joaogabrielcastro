@@ -39,15 +39,17 @@
 <p align="center">
   <a href="https://github.com/joaogabrielcastro">
     <img 
-      src="https://github-readme-stats-git-masterorg.vercel.app/api?username=joaogabrielcastro&theme=blueberry&show_icons=true&border_color=002366&title_color=ffffff&icon_color=002366&layout=compact&cache_seconds=3600" 
-      alt="GitHub Stats João Gabriel"
+      src="https://github-readme-stats.vercel.app/api?username=joaogabrielcastro&show_icons=true&theme=blue_navy&cache_seconds=7200" 
+      alt="GitHub Stats"
+      height="180"
     />
   </a>
   <br><br>
   <a href="https://github.com/joaogabrielcastro">
     <img 
-      src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=joaogabrielcastro&layout=compact&theme=blueberry&border_color=002366&title_color=ffffff&cache_seconds=3600" 
-      alt="Top Langs João Gabriel"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielcastro&layout=compact&theme=blue_navy&cache_seconds=7200" 
+      alt="Top Langs"
+      height="180"
     />
   </a>
 </p>
